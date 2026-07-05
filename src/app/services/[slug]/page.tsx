@@ -82,7 +82,7 @@ export default function ServicePage() {
       <h2 className="text-5xl font-bold mb-4" style={{ fontFamily: '"Playfair Display", serif' }}>
         Our Fleet of <span className="text-[#C69E65]">Private Jets</span>
       </h2>
-      <p className="text-gray-600 text-lg">Prestige Hire operates a selection of respected aircraft trusted worldwide.</p>
+      <p className="text-gray-600 text-lg">WedHire operates a selection of respected aircraft trusted worldwide.</p>
     </div>
 
     {/* Fleet Cards Grid */}

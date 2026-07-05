@@ -23,8 +23,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Luxury and Wedding Car Hire Sydney | Prestige Hire",
-  description: "Experience luxury with Prestige Hire, offering wedding car hire in Sydney. Drive top-tier vehicles for any occasion.",
+  title: "Luxury and Wedding Car Hire Sydney | WedHire",
+  description: "Experience luxury with WedHire, offering wedding car hire in Sydney. Drive top-tier vehicles for any occasion.",
 };
 export const viewport: Viewport = {
   width: "device-width",

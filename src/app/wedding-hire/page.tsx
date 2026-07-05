@@ -50,7 +50,7 @@ export default function WeddingHirePage() {
           </h2>
  
           <p className="text-[#54595F] leading-relaxed text-[15px] sm:text-[16px]">
-            Prestige Hire Sydney can help you with the perfect wedding car hire.
+            WedHire Sydney can help you with the perfect wedding car hire.
             Our reliable service and impeccable range of exotic super cars and
             limousines will ensure your special day runs smoothly and leaves
             guests impressed.
@@ -84,7 +84,7 @@ export default function WeddingHirePage() {
       
       <ContactForm 
         title="Book Your Wedding Car Here" 
-        subtitle="Experience the finest chauffeur service Sydney has to offer. Book your journey today and discover the PrestigeHire difference." 
+        subtitle="Experience the finest chauffeur service Sydney has to offer. Book your journey today and discover the WedHire difference." 
       />
 
       <Testimonials />

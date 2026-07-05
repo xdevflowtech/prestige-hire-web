@@ -19,7 +19,7 @@ export function About() {
             className="text-[42px] md:text-[55px] font-bold leading-tight"
             style={{ fontFamily: '"Playfair Display", serif', color: "#000000" }}
           >
-            About <span className="text-[#C69E65]">Prestige Hire?</span>
+            About <span className="text-[#C69E65]">WedHire</span>
           </h2>
         </div>
 
@@ -54,7 +54,7 @@ export function About() {
           <div className="relative h-[500px] w-full">
             <Image
               src="https://www.prestigehire.co/wp-content/uploads/2026/04/image-18-1.png"
-              alt="About Prestige Hire"
+              alt="About WedHire"
               fill
               className="object-cover rounded-[12px]"
               sizes="(max-width: 1024px) 100vw, 50vw"

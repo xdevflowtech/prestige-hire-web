@@ -90,7 +90,7 @@ export function Hero({
           </div>
 
           <div className="relative z-10 px-4 max-w-[1540px] mx-auto flex flex-col pt-[30px] w-full items-center">
-            <motion.div className="text-[#C59D64] mb-2 text-[25px]">Welcome to Prestige Hire</motion.div>
+            <motion.div className="text-[#C59D64] mb-2 text-[25px]">Welcome to WedHire</motion.div>
 
             <div className="text-center">
               {titleContent || (

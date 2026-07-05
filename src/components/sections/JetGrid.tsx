@@ -60,7 +60,7 @@ export function JetGrid() {
             className="text-[26px] xs:text-[30px] sm:text-[40px] md:text-[55px] font-bold text-[#515151] leading-tight mb-4 md:mb-10"
             style={{ fontFamily: '"Playfair Display", sans-serif', fontFeatureSettings: "normal" }}
           >
-            <span className="text-[#C69E65]">Private Jet Hire</span> with Prestige Hire
+            <span className="text-[#C69E65]">Private Jet Hire</span> with WedHire
           </h2>
         </div>
 

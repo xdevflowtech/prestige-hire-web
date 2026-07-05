@@ -143,27 +143,27 @@ export const servicesData = [
 export const faqData = [
   {
     question: "How much does luxury automobile hire Sydney cost?",
-    answer: "The cost of leasing a luxury automobile in Sydney with Prestige Hire can differ depending on a few simple aspects such as the type of car you choose, how long you need it for and the kind of service you’re booking. At Prestige Hire, we work hard to be flexible with our pricing so that it may accommodate your demands and your budget."
+    answer: "The cost of leasing a luxury automobile in Sydney with WedHire can differ depending on a few simple aspects such as the type of car you choose, how long you need it for and the kind of service you’re booking. At WedHire, we work hard to be flexible with our pricing so that it may accommodate your demands and your budget."
   },
   {
     question: "Do you do wedding vehicle hiring in Sydney?",
-    answer: "Yes, Prestige Hire provides wedding vehicle hiring services around Sydney and collaborates with couples to ensure the smooth flow of their day. We have a wide choice of cars from vintage Rolls Royce models to contemporary luxury sedans and supercars."
+    answer: "Yes, WedHire provides wedding vehicle hiring services around Sydney and collaborates with couples to ensure the smooth flow of their day. We have a wide choice of cars from vintage Rolls Royce models to contemporary luxury sedans and supercars."
   },
   {
     question: "Is it possible to make a reservation online?",
-    answer: "Yes, Prestige Hire offers a fast and easy booking with our online booking system. Browse our current inventory of automobiles, view the details and reserve your car without calling or visiting in person."
+    answer: "Yes, WedHire offers a fast and easy booking with our online booking system. Browse our current inventory of automobiles, view the details and reserve your car without calling or visiting in person."
   },
   {
     question: "How experienced are your chauffeurs?",
-    answer: "All our Prestige Hire Chauffeurs are skilled, experienced and dedicated to ensure a smooth and safe travel. They are familiar with the highways of Sydney, traffic patterns and vital destinations, which help in avoiding delays and prompt arrivals."
+    answer: "All our WedHire Chauffeurs are skilled, experienced and dedicated to ensure a smooth and safe travel. They are familiar with the highways of Sydney, traffic patterns and vital destinations, which help in avoiding delays and prompt arrivals."
   },
   {
     question: "What areas do you service?",
-    answer: "Prestige Hire services the greater Sydney area including the CBD, Parramatta and surrounding suburbs. This broad reach enables us to serve to all kinds of reservations, like a wedding venue, office location, airport and private event."
+    answer: "WedHire services the greater Sydney area including the CBD, Parramatta and surrounding suburbs. This broad reach enables us to serve to all kinds of reservations, like a wedding venue, office location, airport and private event."
   },
   {
     question: "Do you have any services other than car rental?",
-    answer: "Yes, Prestige Hire also provide other services for individuals searching for something different to car hire. We also offer luxury yacht charter, private jet hire and other services in addition to our fleet of automobiles."
+    answer: "Yes, WedHire also provide other services for individuals searching for something different to car hire. We also offer luxury yacht charter, private jet hire and other services in addition to our fleet of automobiles."
   }
 ];
 export const avatarUrls = [
@@ -413,14 +413,14 @@ export const servicesPageData: Record<string, ServiceData> = {
     },
     about: {
       title: "Private Jet Hire in Sydney",
-      text: "Flying across Australia or internationally is easier and more comfortable with Prestige Hire. Our private jet hire service gives you the flexibility to set your own departure times and destinations. Whether for business or leisure, our private jet charter offers speed, privacy, and convenience. For clients seeking the finest travel experience on the ground as well, Prestige Hire also provides luxury cars in Sydney with professional chauffeur services.",
+      text: "Flying across Australia or internationally is easier and more comfortable with WedHire. Our private jet hire service gives you the flexibility to set your own departure times and destinations. Whether for business or leisure, our private jet charter offers speed, privacy, and convenience. For clients seeking the finest travel experience on the ground as well, WedHire also provides luxury cars in Sydney with professional chauffeur services.",
       image: "https://www.prestigehire.co/wp-content/uploads/2026/04/gulfstream-giv1.jpg"
     },
     whyChoose: {
-      title: "Why Choose Prestige Hire",
-      text: `When it comes to private jet hire, Prestige Hire ensures every flight meets the highest standards of comfort and efficiency.
+      title: "Why Choose WedHire",
+      text: `When it comes to private jet hire, WedHire ensures every flight meets the highest standards of comfort and efficiency.
 
-When you book with Prestige Hire, you enjoy:
+When you book with WedHire, you enjoy:
 • Flexible flight schedules based on your itinerary
 • Direct access to both domestic and international destinations
 • Luxury cabins for privacy and comfort
@@ -453,7 +453,7 @@ We also arrange luxury airport transfers to complement your flight experience.`,
     ],
     typesSection: {
       title: "Types of Private Jet Charter Sydney",
-      description: "Prestige Hire provides a variety of private jet options to match every travel need:",
+      description: "WedHire provides a variety of private jet options to match every travel need:",
       items: [
         "Business Jet Charter – Perfect for executives and corporate teams needing punctual and discreet travel.",
         "Leisure Jet Charter – Ideal for weekend getaways, holidays, or family trips in complete comfort.",
@@ -464,7 +464,7 @@ We also arrange luxury airport transfers to complement your flight experience.`,
       image: "https://www.prestigehire.co/wp-content/uploads/2026/04/falcon-4-1.jpg"
     },bookingSection: {
   title: "How to Book a Private Jet",
-  subtitle: "Booking your private plane hire with Prestige Hire is quick and simple:",
+  subtitle: "Booking your private plane hire with WedHire is quick and simple:",
   steps: [
     "Choose your preferred aircraft from our fleet of private jets for hire.",
     "Share your travel details, including destination and schedule.",
@@ -475,14 +475,14 @@ We also arrange luxury airport transfers to complement your flight experience.`,
 },
   routesSection: {
       title: "Popular Routes from Sydney",
-      description: "Prestige Hire operates across Australia and beyond. Some of our most popular charter routes include:",
+      description: "WedHire operates across Australia and beyond. Some of our most popular charter routes include:",
       routes: [
         "Sydney to Melbourne – A top choice for business and executive travel.",
         "Sydney to Brisbane – Ideal for quick corporate or family trips.",
         "Sydney to Gold Coast – A favourite for leisure and holiday travellers, often paired with premium cars.",
         "Sydney to Auckland – Perfect for international connections or weekend getaways."
       ],
-      footerText: "Each route is managed with the same attention to safety, timing, and luxury that defines every Prestige Hire flight.",
+      footerText: "Each route is managed with the same attention to safety, timing, and luxury that defines every WedHire flight.",
       mainImage: "https://www.prestigehire.co/wp-content/uploads/2026/04/gulfstream-giv3-1.jpg",
       galleryImages: [
         "https://www.prestigehire.co/wp-content/uploads/2026/04/larjet-2.jpg",

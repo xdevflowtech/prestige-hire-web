@@ -25,8 +25,8 @@ export function Footer() {
         <div className="flex flex-col gap-6">
           <Link href="/">
             <Image
-              src="https://www.prestigehire.co/wp-content/uploads/2026/04/logo-2.png"
-              alt="Logo"
+              src="/file.svg"
+              alt="Placeholder logo"
               width={60}
               height={90}
             />
@@ -55,7 +55,7 @@ export function Footer() {
         <div>
           <h4 style={headingStyle} className="mb-6">More Info</h4>
           <ul className={listStyle}>
-            {["About Prestige Hire", "Fleet", "Yacht", "Wedding Car Hire", "Formal Car Hire Sydney", "Private Chauffeur Service", "Private Jet"].map((item) => (
+            {["About WedHire", "Fleet", "Yacht", "Wedding Car Hire", "Formal Car Hire Sydney", "Private Chauffeur Service", "Private Jet"].map((item) => (
               <li key={item}>
                 <Link href="#" className="hover:text-black transition-colors">{item}</Link>
               </li>
@@ -107,7 +107,7 @@ export function Footer() {
       <div className="py-8" style={{ backgroundColor: "#C59D64" }}>
         <div className="container-default px-4 flex flex-col md:flex-row justify-between items-center gap-6">
           <p className="text-sm text-center md:text-left" style={{ color: "#000000", fontSize: "16px", fontFamily: "sans-serif" }}>
-            Copyright © 2026, Prestige Hire. All Rights Reserved.
+            Copyright © 2026, WedHire. All Rights Reserved.
           </p>
           <div className="h-[30px]">
             <Image

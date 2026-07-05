@@ -68,8 +68,8 @@ export function Header() {
         <Link href="/" className="flex items-center gap-3 sm:gap-6 flex-shrink-0">
           <div className="relative w-[48px] h-[75px] sm:w-[55px] sm:h-[86px] lg:w-[61px] lg:h-[95px]">
             <Image
-              src="https://www.prestigehire.co/wp-content/uploads/2026/04/logo-2.png"
-              alt="Logo"
+              src="/file.svg"
+              alt="Placeholder logo"
               fill
               className="object-contain"
               priority
