@@ -2,7 +2,6 @@
 
 import { useState } from "react";
 import Link from "next/link";
-import Image from "next/image";
 import { usePathname } from "next/navigation";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronDown, Menu, X } from "lucide-react";
@@ -65,26 +64,6 @@ export function Header() {
 
       {/* Main Header */}
       <div className="max-w-[1280px] mx-auto py-2 flex items-center justify-between lg:justify-start gap-4 px-4">
-        <Link href="/" className="flex items-center gap-3 sm:gap-6 flex-shrink-0">
-          <div className="relative w-[48px] h-[75px] sm:w-[55px] sm:h-[86px] lg:w-[61px] lg:h-[95px]">
-            <Image
-              src="/file.svg"
-              alt="Placeholder logo"
-              fill
-              className="object-contain"
-              priority
-            />
-          </div>
-          <div className="relative w-[78px] h-[78px] hidden md:block">
-            <Image
-              src="https://www.prestigehire.co/wp-content/uploads/2026/04/image-17.png"
-              alt="Covid Safe"
-              fill
-              className="object-contain"
-            />
-          </div>
-        </Link>
-
         <nav className="hidden lg:flex items-center flex-nowrap flex-1 min-w-0 justify-center">
           {navLinks?.map((link) => {
             const isActive = pathname === link.href;
