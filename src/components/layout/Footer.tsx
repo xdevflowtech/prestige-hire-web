@@ -25,10 +25,11 @@ export function Footer() {
         <div className="flex flex-col gap-6">
           <Link href="/">
             <Image
-              src="/file.svg"
-              alt="Placeholder logo"
-              width={60}
-              height={90}
+              src="/wedhire-logo.svg"
+              alt="WedHire logo"
+              width={180}
+              height={120}
+              className="h-auto w-[140px]"
             />
           </Link>
           <p
