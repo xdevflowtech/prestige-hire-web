@@ -32,15 +32,15 @@ export function Header() {
               <span className="whitespace-nowrap">Sydney Australia</span>
             </li>
             <li className="flex items-center px-1 lg:px-2">
-              <a href="tel:1800931531" className="flex items-center">
+              <a href="tel:+1224344555666" className="flex items-center">
                 <FaPhoneAlt size={12} className="mr-1.5 lg:mr-2 shrink-0" aria-hidden="true" style={{ color: "#595959" }} />
-                <span className="whitespace-nowrap">1800 931 531</span>
+                <span className="whitespace-nowrap">+1 224 344 55566</span>
               </a>
             </li>
             <li className="flex items-center px-1 lg:px-2">
-              <a href="mailto:bookings@prestigehire.co" className="flex items-center">
+              <a href="mailto:info@wedhire@gmail.co" className="flex items-center">
                 <FaEnvelope size={12} className="mr-1.5 lg:mr-2 shrink-0" aria-hidden="true" style={{ color: "#595959" }} />
-                <span className="whitespace-nowrap">bookings@prestigehire.co</span>
+                <span className="whitespace-nowrap">info@wedhire@gmail.co</span>
               </a>
             </li>
           </ul>
