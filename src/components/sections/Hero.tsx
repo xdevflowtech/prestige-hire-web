@@ -105,7 +105,22 @@ export function Hero({
             {(heroPrimaryButtonText || heroSecondaryButtonText) && (
               <div className="flex gap-4">
                 {heroPrimaryButtonText && heroPrimaryButtonLink && (
-                  <Link href={heroPrimaryButtonLink} className="px-6 py-2 bg-[#C69E65] text-white rounded font-medium">
+                  <Link
+                    href={heroPrimaryButtonLink}
+                    className="flex items-center justify-center text-[#23282D] text-[16px] font-semibold rounded-[8px] select-none hover:opacity-95 active:translate-y-[1px] active:shadow-sm transition-transform duration-150"
+                    style={{
+                      background: "linear-gradient(90deg, #C69E65 1.92%, #FBE4BA 53.46%, #C59D64 100%)",
+                      paddingTop: "6px",
+                      paddingBottom: "6px",
+                      paddingLeft: "35px",
+                      paddingRight: "35px",
+                      height: "44px",
+                      minWidth: "170px",
+                      boxShadow: "0 6px 18px rgba(198,158,101,0.18)",
+                      cursor: "pointer",
+                      letterSpacing: "0.2px",
+                    }}
+                  >
                     {heroPrimaryButtonText}
                   </Link>
                 )}
@@ -145,7 +160,22 @@ export function Hero({
           {(heroPrimaryButtonText || heroSecondaryButtonText) && (
             <div className="flex gap-4 flex-wrap justify-center">
               {heroPrimaryButtonText && heroPrimaryButtonLink && (
-                <Link href={heroPrimaryButtonLink} className="px-6 py-2 bg-[#C69E65] text-white rounded font-medium">
+                <Link
+                  href={heroPrimaryButtonLink}
+                  className="flex items-center justify-center text-[#23282D] text-[16px] font-semibold rounded-[8px] select-none hover:opacity-95 active:translate-y-[1px] active:shadow-sm transition-transform duration-150"
+                  style={{
+                    background: "linear-gradient(90deg, #C69E65 1.92%, #FBE4BA 53.46%, #C59D64 100%)",
+                    paddingTop: "6px",
+                    paddingBottom: "6px",
+                    paddingLeft: "35px",
+                    paddingRight: "35px",
+                    height: "44px",
+                    minWidth: "170px",
+                    boxShadow: "0 6px 18px rgba(198,158,101,0.18)",
+                    cursor: "pointer",
+                    letterSpacing: "0.2px",
+                  }}
+                >
                   {heroPrimaryButtonText}
                 </Link>
               )}
