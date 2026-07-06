@@ -24,9 +24,9 @@ export function Footer() {
         {/* Column 1 */}
         <div className="flex flex-col gap-6">
           <Link href="/">
-            <Image
-              src="/wedhire-logo.svg"
-              alt="WedHire logo"
+            <img
+              src="/ai-generated-logo.svg"
+              alt="Site logo"
               width={180}
               height={120}
               className="h-auto w-[140px]"

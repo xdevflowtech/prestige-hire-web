@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
-import Image from "next/image";
+// Use plain <img> for the logo to avoid hydration mismatches with next/image
 import { usePathname } from "next/navigation";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronDown, Menu, X } from "lucide-react";
@@ -66,12 +66,11 @@ export function Header() {
       {/* Main Header */}
       <div className="max-w-[1280px] mx-auto py-2 flex items-center justify-between lg:justify-start gap-4 px-4">
         <Link href="/" className="flex items-center shrink-0">
-          <Image
-            src="/wedhire-logo.svg"
-            alt="WedHire logo"
+          <img
+            src="/ai-generated-logo.svg"
+            alt="Site logo"
             width={170}
             height={110}
-            priority
             className="h-auto w-[120px] sm:w-[140px] lg:w-[170px]"
           />
         </Link>
