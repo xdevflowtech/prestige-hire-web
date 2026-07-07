@@ -27,7 +27,7 @@ export function Footer() {
         <div className="flex flex-col gap-6">
           <Link href="/">
             <img
-              src="/ai-generated-logo.svg"
+              src="/widshire-logo.svg"
               alt="Site logo"
               width={180}
               height={120}

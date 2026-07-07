@@ -67,7 +67,7 @@ export function Header() {
       <div className="max-w-[1280px] mx-auto py-0 flex items-center justify-between lg:justify-start gap-4 px-4">
         <Link href="/" className="flex items-center shrink-0">
           <img
-            src="/ai-generated-logo.svg"
+            src="/widshire-logo.svg"
             alt="Site logo"
             width={170}
             height={110}
